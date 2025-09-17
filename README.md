@@ -22,7 +22,10 @@ Technologies and Tools
 
 Let's Connect!
 
-Here is my LinkedIn profile:  linkedin.com/in/leonardo-guarino
+
+
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-guarino)
+
     
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
