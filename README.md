@@ -20,6 +20,14 @@ Technologies and Tools
 
     Certifications: AWS Cloud Practitioner, ITIL 4 Foundation
 
+Personal Projects
+- SoftEther deployed in an Argentina local cloud provided.
+- OpenVPN deployed in locally in my own network via docker container. 
+- Tynyproxy deployed in a container hosted in AWS.
+- Deployed  Samba  in a linux miniPC locally where I mounted a external HardDrive so my can backup their devices.
+- ATP_accountant: Django Application that connects with Sage API. It gets customer's data from an accountant to create reports.
+- Family_budget: A simple family budget in Python, connected with Telegram and OpenAI, to easily submit expenses.
+- And more...
 Let's Connect!
 
 
